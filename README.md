@@ -17,10 +17,8 @@
     * [Настройки - Подбор стратегий (Beta)](features-set-strattest.md)
     <!--   * Изменить домены -->
     <!--   * Изменить стратегии -->
+   * [Настройка для Smart TV (WebOS/Tizen)](smarttv.md)
 
-4. [Проблемы и решения](problems.md)
+5. [Проблемы и решения](problems.md)
 
     * [Установка на Windows 7](win7.md)
-    * [Настройка Smart TV с ByeDPI Manager + V2ray + MaraDNS](smarttv.md)
-
-
