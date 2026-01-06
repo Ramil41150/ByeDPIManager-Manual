@@ -7,7 +7,7 @@
 - Windows-ПК в локальной сети (с правами администратора для открытия портов).
 - Телевизор с возможностью вручную указать DNS (или возможность задать статический IP/DNS).
 - ByeDPI Manager. [Инструкция](https://github.com/BDManual/ByeDPIManager-Manual/blob/main/install.md).
-- Архив [v2ray-maradns.7z](https://github.com/HideakiTaiki/ByeDPIManager-Manual/blob/main/v2ray-maradns.7z) (распаковка даст папки v2ray и maradns).
+- Архив [v2ray-maradns.7z](https://github.com/BDManual/ByeDPIManager-Manual/blob/main/v2ray-maradns.7z) (распаковка даст папки v2ray и maradns).
 - ProxiFyre — в ProxiFyre нужно указать путь к v2ray.exe.
 
 ## Быстрая схема работы
@@ -25,7 +25,7 @@
     - Следуйте официальной [инструкции](https://github.com/BDManual/ByeDPIManager-Manual/blob/main/install.md).
     - Убедитесь, что ByeDPI Manager запускается и работает на компьютере.
 
-2. Распакуйте [v2ray-maradns.7z](https://github.com/HideakiTaiki/ByeDPIManager-Manual/blob/main/v2ray-maradns.7z)
+2. Распакуйте [v2ray-maradns.7z](https://github.com/BDManual/ByeDPIManager-Manual/blob/main/v2ray-maradns.7z)
     - В результате у вас должны появиться папки v2ray и maradns.
 
 3. Добавьте v2ray в ProxiFyre
